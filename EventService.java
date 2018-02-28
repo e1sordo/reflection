@@ -66,7 +66,7 @@ public class EventService {
 
     private void sendEmail(StringBuilder messageBody) {
         StringBuilder messageHeader = new StringBuilder();
-        // sendEmail
+        //  sendEmail
     }
 
 }

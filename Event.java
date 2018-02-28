@@ -1,7 +1,7 @@
 package com.vlavik.reflection;
 
 /**
- * Created on 28.02.2018.
+ * Created on 28.02.2018 .
  * @author vlavik
  */
 public class Event {
